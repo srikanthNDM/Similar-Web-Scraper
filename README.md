@@ -10,3 +10,6 @@ Image:https://i.ibb.co/QbWvg4B/Capture.png
 Usage: load urls in "domain.com" format without any quotes.
 paste proxies, dont use public proxies. They wont work.
 Click start.
+
+Helpful is guest posting automation!
+If you are trying this follow me: https://twitter.com/SrikanthNDM
